@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  padding: 50px;
+  border: 1px solid #aaa;
+  border-radius: 15px;
+}
+
+#root {
+  padding: 70px 100px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.menu{
+  padding-bottom: 20px;
+  font-weight: 700;
+  font-size: 20px;
+}
